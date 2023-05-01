@@ -1,0 +1,2 @@
+import psutil
+print('CPU 频率 %d GHz ' % psutil.cpu_freq().max
